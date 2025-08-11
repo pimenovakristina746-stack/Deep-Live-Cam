@@ -1,5 +1,5 @@
 @echo off
-setlocal EnableDelayedExpansion
+ EnasetlocalbleDelayedExpansion
 
 :: 1. Setup your platform
 echo Setting up your platform...
